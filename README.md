@@ -14,4 +14,4 @@ Technologies : Python (Pandas, NumPy, Matplotlib), SQL, Power BI, MS Excel
 
 Dataset : World Bank International Debt Statistics (IDS)
 
-Link    : Dataset | International Debt Statistics (IDS) | World Bank Data360
+Link    : Dataset | https://data360.worldbank.org/en/dataset/WB_IDS
